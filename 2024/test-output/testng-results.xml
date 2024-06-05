@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T21:52:56 IST" name="Default suite" finished-at="2024-03-20T21:52:56 IST" duration-ms="105">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T21:52:56 IST" name="Default test" finished-at="2024-03-20T21:52:56 IST" duration-ms="105">
+      <class name="sample01.HwlloWorld">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="beforesuite" finished-at="2024-03-20T21:52:56 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="beforetest" finished-at="2024-03-20T21:52:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="beforeclass" finished-at="2024-03-20T21:52:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="beforemethod" finished-at="2024-03-20T21:52:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test1()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="test1" finished-at="2024-03-20T21:52:56 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="aftermethod" finished-at="2024-03-20T21:52:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="beforemethod" finished-at="2024-03-20T21:52:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test2()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="test2" finished-at="2024-03-20T21:52:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="aftermethod" finished-at="2024-03-20T21:52:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="afterclass" finished-at="2024-03-20T21:52:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="aftertest" finished-at="2024-03-20T21:52:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:sample01.HwlloWorld@25ce9dc4]" started-at="2024-03-20T21:52:56 IST" name="aftersuite" finished-at="2024-03-20T21:52:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- sample01.HwlloWorld -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

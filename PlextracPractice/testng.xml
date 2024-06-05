@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="ninja.plextrac.utilities.ExtentListener"></listener>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+
+      <class name="ninja.plextrac.testCases.TC_Create_Client"></class>
+      <class name="ninja.plextrac.testCases.TC_Create_Report"></class>
+      <class name="ninja.plextrac.testCases.TC_Create_Finding"></class>
+      <class name="ninja.plextrac.testCases.TC_Delete_Reports"></class>
+      <class name="ninja.plextrac.testCases.TC_DeleteClient"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
