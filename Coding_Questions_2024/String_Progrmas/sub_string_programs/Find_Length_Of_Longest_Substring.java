@@ -1,16 +1,16 @@
-package practice_2024;
+package sub_string_programs;
 
 import java.util.HashSet;
 
 		// here we are finding length of the longest substring
 
-public class findlengthoflongestSubstring {
+public class Find_Length_Of_Longest_Substring {
 	
 	public static void main(String[] args) {
         int i = 0;
         int j = 0;
         int max = 0;
-        String S = "jhvckfyyuu";
+        String S = "hwwkew";
         HashSet<Character> hashSet = new HashSet<>();
 
         while (j < S.length()) {

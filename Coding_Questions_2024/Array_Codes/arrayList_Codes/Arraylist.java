@@ -1,4 +1,4 @@
-package practice_2024;
+package arrayList_Codes;
 
 import java.util.ArrayList;
 

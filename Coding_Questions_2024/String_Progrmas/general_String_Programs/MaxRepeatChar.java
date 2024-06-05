@@ -1,4 +1,4 @@
-package stringPrograms;
+package general_String_Programs;
 
 public class MaxRepeatChar {
 

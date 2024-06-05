@@ -1,4 +1,4 @@
-package interviewCodes;
+package general_String_Programs;
 
 public class ExtractingNumFromString {
 

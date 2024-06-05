@@ -1,4 +1,4 @@
-package interviewCodes;
+package general_Array_Programs;
 
 
 

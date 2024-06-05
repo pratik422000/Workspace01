@@ -1,13 +1,14 @@
-package practice_2024;
+package sub_string_programs;
 
 import java.util.HashMap;
 
+	// Substring is a string available within a String, which should be continuous characters.
 
-public class LongestSubstringANDlength {
+public class Find_Longest_Substring {
 
 	public static void main(String[] args) {
-//		Sliding("awdeuwkabe");
-		Sliding("hwwkew");
+		Sliding("awdeuwkabe");
+//		Sliding("hwwkew");
 	}
 	
     private static void Sliding(String str) {

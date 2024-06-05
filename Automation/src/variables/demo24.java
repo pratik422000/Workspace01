@@ -1,4 +1,4 @@
-package practice_2024;
+package variables;
 
 public class demo24 {
 	
