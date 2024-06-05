@@ -5,11 +5,11 @@ public class ForloopAtoZ {
 	// Display A to Z
 
 	public static void main(String args[]) {
-		char s = 'A';
-		char e = 'Z';
+		char start= 'A';
+		char end = 'Z';
 
-		for (char test = s; test <= e; test++) {
-			System.out.println(test);
+		for (char alphabates = start; alphabates <= end; alphabates++) {
+			System.out.println(alphabates);
 		}
 
 	}

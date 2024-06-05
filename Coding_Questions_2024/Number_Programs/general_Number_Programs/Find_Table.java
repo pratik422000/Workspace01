@@ -1,6 +1,6 @@
-package loopStatement;
+package general_Number_Programs;
 
-public class ForloopTables {
+public class Find_Table {
 	
 	// Nested For loop
 

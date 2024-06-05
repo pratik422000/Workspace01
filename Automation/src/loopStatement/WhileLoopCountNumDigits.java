@@ -6,7 +6,7 @@ public class WhileLoopCountNumDigits {
 		
 	public static void main(String[] args) {
 		
-		int n=65768;
+		int n=04022000;
 		
 		int counter= 0;
 				
@@ -15,7 +15,7 @@ public class WhileLoopCountNumDigits {
 			n = n/10;
 			counter++;
 		}
-		System.out.println("number of digits" +  counter);
+		System.out.println("number of digits: " +  counter);
 		}
 
 }

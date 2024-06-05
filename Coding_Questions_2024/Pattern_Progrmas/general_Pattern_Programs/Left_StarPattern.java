@@ -1,6 +1,6 @@
-package loopStatement;
+package general_Pattern_Programs;
 
-public class ForLoopStarPattern {
+public class Left_StarPattern {
 
 	// Nested For loop
 
