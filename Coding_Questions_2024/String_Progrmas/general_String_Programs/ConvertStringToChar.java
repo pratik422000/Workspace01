@@ -1,4 +1,4 @@
-package general_string_programs;
+package general_String_Programs;
 
 public class ConvertStringToChar {
 
